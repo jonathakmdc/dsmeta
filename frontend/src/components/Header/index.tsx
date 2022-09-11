@@ -8,9 +8,7 @@ function Header() {
                 <img src={logo} alt="DSMeta" />
                 <h1>DSMeta</h1>
                 <p>
-                    Semana Spring React by 
-                    <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
-                    { } - Aluno Jonatha Kennedy
+                    Semana Spring React - Desenvolvido por Jonatha Kennedy
                 </p>
             </div>
         </header>
